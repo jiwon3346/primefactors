@@ -24,6 +24,8 @@ public class PrimeFactorsTest {
     @Test public void
     nothing() {
     }
+
+    test
 }
 ```
 # 2. canFactorIntoPrimes for 1
